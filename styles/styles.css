@@ -8,7 +8,7 @@
 }
 /* Landing Page */
 .landing {
-  background-image: url("../assets/backgrounds/h_img.jpg");
+  background-image: url("/assets/backgrounds/h_img.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -50,7 +50,7 @@
 /* Services */
 .services {
   text-align: center;
-  background-image: url("../assets/backgrounds/s_image.jpg");
+  background-image: url("/assets/backgrounds/s_image.jpg");
   color: white;
   background-position: center;
   background-size: cover;
@@ -218,7 +218,7 @@
 }
 /* Contact */
 #contact {
-  background-image: url("../assets/backgrounds/s_image.jpg");
+  background-image: url("/assets/backgrounds/s_image.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
