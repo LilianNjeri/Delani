@@ -192,3 +192,64 @@
   width: 240px;
   margin: 20px;
 }
+/* Contact */
+#contact {
+  background-image: url("../assets/backgrounds/s_image.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: transparent;
+  text-align: center;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.text-center {
+  color: white;
+  margin: 20px;
+}
+.form {
+  width: 60%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.form-group {
+  width: 100%;
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 20px;
+  margin: 20px;
+}
+.form-input {
+  width: 100%;
+  background-color: transparent;
+  border: 2px solid white;
+  padding: 10px;
+  color: white;
+}
+
+.form-input::placeholder {
+  color: white;
+}
+.form-area {
+  border: 2px solid white;
+  width: 100%;
+  padding: 10px;
+  color: white;
+  background-color: transparent;
+}
+
+.form-area::placeholder {
+  color: white;
+}
+
+.submit {
+  width: 100%;
+  padding: 10px;
+}
