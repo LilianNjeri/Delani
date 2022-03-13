@@ -118,67 +118,67 @@
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  text-align: center;
   height: 200px;
   width: 240px;
   margin: 20px;
+  cursor: pointer;
 }
 .work2 {
   background-image: url("/assets/portfolio/work3.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  text-align: center;
   height: 200px;
   width: 240px;
   margin: 20px;
+  cursor: pointer;
 }
 .work3 {
   background-image: url("/assets/portfolio/work2.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  text-align: center;
   height: 200px;
   width: 240px;
   margin: 20px;
+  cursor: pointer;
 }
 .work4 {
   background-image: url("/assets/portfolio/work1.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  text-align: center;
   height: 200px;
   width: 240px;
   margin: 20px;
+  cursor: pointer;
 }
 .work5 {
   background-image: url("/assets/portfolio/work5.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  text-align: center;
   height: 200px;
   width: 240px;
   margin: 20px;
+  cursor: pointer;
 }
 .work6 {
   background-image: url("/assets/portfolio/work6.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  text-align: center;
   height: 200px;
   width: 240px;
   margin: 20px;
+  cursor: pointer;
 }
 .work7 {
   background-image: url("/assets/portfolio/work7.jpg");
   background-position: center;
   background-size: cover;
+  cursor: pointer;
   background-repeat: no-repeat;
-  text-align: center;
   height: 200px;
   width: 240px;
   margin: 20px;
@@ -188,10 +188,33 @@
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  text-align: center;
   height: 200px;
   width: 240px;
   margin: 20px;
+  cursor: pointer;
+}
+#overlay,
+#overlay2,
+#overlay3,
+#overlay4,
+#overlay5,
+#overlay6,
+#overlay7,
+#overlay8 {
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 20px;
+}
+.text {
+  padding: 10px;
+  height: 100%;
+  width: 100%;
+  color: white;
+  border: 5px solid white;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
 }
 /* Contact */
 #contact {
