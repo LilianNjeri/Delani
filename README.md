@@ -17,7 +17,7 @@ The website includes a landing page section with a striking message;an About Us 
 
 ## Setup.
 
-> `git clone https://github.com/LilianNjeri/akan.git `
+> `git clone https://github.com/LilianNjeri/Delani.git `
 
 `extract the file`
 
