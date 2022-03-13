@@ -13,7 +13,7 @@ The website includes a landing page section with a striking message;an About Us 
 
 ## Screenshot
 
-<img src="https://raw.githubusercontent.com/LilianNjeri/akan/master/images/akan.png" width="800px" height="400px">
+<img src="https://raw.githubusercontent.com/LilianNjeri/Delani/master/assets/delani.png">
 
 ## Setup.
 
