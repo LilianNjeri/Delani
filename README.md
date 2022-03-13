@@ -1,6 +1,6 @@
 # Delani
 
-[Check it out](https://)
+[Check it out](https://liliannjeri.github.io/Delani/)
 
 ## Description.
 
