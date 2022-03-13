@@ -63,3 +63,31 @@
   padding-top: 10%;
   padding-bottom: 10%;
 }
+/* What-we-do */
+.what-we-do {
+  text-align: center;
+  padding-top: 40px;
+}
+.what-we-do .headings {
+  padding-bottom: 50px;
+}
+
+.activities {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  margin: 20px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+}
+.card-image {
+  height: 50px;
+}
+.card-title {
+  font-weight: 700;
+}
