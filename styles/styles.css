@@ -37,3 +37,13 @@
   margin-top: 10%;
   padding-bottom: 30px;
 }
+/* About Us */
+#about {
+  text-align: center;
+}
+
+.about {
+  padding-bottom: 50px;
+  padding-top: 50px;
+  text-align: center;
+}
