@@ -91,3 +91,104 @@
 .card-title {
   font-weight: 700;
 }
+/* Portfolio */
+#portfolio {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: 20px;
+}
+.portfolio h2 {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.work1 {
+  background-image: url("/assets/portfolio/work4.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  height: 200px;
+  width: 240px;
+  margin: 20px;
+}
+.work2 {
+  background-image: url("/assets/portfolio/work3.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  height: 200px;
+  width: 240px;
+  margin: 20px;
+}
+.work3 {
+  background-image: url("/assets/portfolio/work2.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  height: 200px;
+  width: 240px;
+  margin: 20px;
+}
+.work4 {
+  background-image: url("/assets/portfolio/work1.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  height: 200px;
+  width: 240px;
+  margin: 20px;
+}
+.work5 {
+  background-image: url("/assets/portfolio/work5.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  height: 200px;
+  width: 240px;
+  margin: 20px;
+}
+.work6 {
+  background-image: url("/assets/portfolio/work6.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  height: 200px;
+  width: 240px;
+  margin: 20px;
+}
+.work7 {
+  background-image: url("/assets/portfolio/work7.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  height: 200px;
+  width: 240px;
+  margin: 20px;
+}
+.work8 {
+  background-image: url("/assets/portfolio/work8.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  height: 200px;
+  width: 240px;
+  margin: 20px;
+}
